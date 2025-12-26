@@ -1,4 +1,4 @@
-🚀 DevTinder – A Social Networking Platform for Developers
+🚀 DeVCONN – A Social Networking Platform for Developers
 
 DevTinder is a full-stack MERN application inspired by Tinder, built specifically for developers to connect, chat, and network.
 It supports authentication, real-time chat, connection requests, premium memberships, and secure payments.
